@@ -35,6 +35,22 @@
 
 ## Work Experience 💼
 
+### Data Analyst 
+#### KANARI CX, Dubai 
+
+  (December 2023 - Present)
+- Developed and maintained high-quality dashboards in ToucanToco, improving client engagement by 25% through tailored visualizations.
+- Identified business-critical patterns and trends using statistical analysis, directly informing strategic decisions and operational improvements.
+- Enhanced client customer retention by 15% through detailed dashboard insights on consumer preferences and improvement areas.
+
+### Data Analyst 
+#### Digital Qatalyst, Dubai 
+
+  (November 2023 - December 2023)
+- Boosted data accuracy by 20% and cut processing time by 15% with efficient management strategies.
+- Improved report efficiency by 30% through streamlined data cleaning and formatting.
+- Analyzed complex datasets, leading to a 12% enhancement in client strategies and a 25% reduction in errors.
+
 ### Advanced Data Analyst Intern
 #### LabWare Arabia, Dubai 
 
