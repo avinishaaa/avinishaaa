@@ -156,3 +156,4 @@ expanded my knowledge of heart failure prediction but also reinforced my passion
 - Data Science and Analytics (LinkedIn, June 2023)
 - KPMG Data Analytics (Forage, October 2023)
 - Data Analysis Fundamentals (Udacity, November 2023)
+- Data Analysis & Visualization (Power BI) - Udacity (February 2024)
